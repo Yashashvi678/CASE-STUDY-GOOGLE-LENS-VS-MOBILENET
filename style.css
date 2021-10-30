@@ -1,0 +1,133 @@
+body
+{
+    background-color:#3FC1C9;
+}
+#mobilenet_topic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+
+.test_image_and_result
+{
+    background-color: #FC5185;
+    height: fit-content;
+    margin-right: 180px !important;
+    width: 95%;
+    margin-left: 30px;
+    padding: 26px;
+    width: 95%;
+    border-radius: 20px;
+    padding-bottom: 100px;
+    padding-left: 35px;
+    box-shadow: 5px 5px 5px 5px rgb(204, 204, 204);
+}
+
+#image
+{
+    height: 190px;
+    width: 150px;
+    justify-self: left;
+    float: left;
+
+}
+
+li
+{
+    font-size: 20px;
+}
+
+#test
+{
+    color: white;
+    float: left;
+}
+
+#google
+{
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 5px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+}
+
+#heading
+{
+    font-size: 35px;
+    color: rgb(247, 237, 109);
+    font-weight: bold;
+    font-stretch: narrower;
+    text-decoration: underline;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#google_lens_image
+{
+    height: 90px;
+}
+
+#google_lens_topic
+{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+#result
+{
+    align-content: center;
+        margin-top: 20px;
+        color: white;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vs
+{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Times New Roman Bold Italic;
+}
+
+#mobilenet_topic
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#mobile
+{
+    background-color: white;
+    width: fit-content;
+    margin-left: 40px;
+    height: fit-content ;
+    padding-top: 5px;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#mobilenet
+{
+    color: rgb(0, 17, 255);
+}
+
+
+
+#google_lens
+{
+    color: rgb(255, 5, 243);
+}
+
+
+#final_result
+{
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
