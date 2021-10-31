@@ -20,7 +20,16 @@ body
     border-radius: 20px;
     padding-bottom: 100px;
     padding-left: 35px;
+    padding-right: 35px;
     box-shadow: 5px 5px 5px 5px rgb(204, 204, 204);
+}
+
+span
+{
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    
 }
 
 #image
@@ -130,4 +139,37 @@ li
     font-family: cursive;
     font-size: 30px;
     font-weight: bold;
+}
+
+
+
+.copy_right_footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+
+#google_lens
+{
+    color: purple;
+    font-weight: bold;
+}
+
+#final_statement
+{
+    background-color: pink;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 5px;
+    font-size: 20px;
+    color: rgb(17, 0, 255);
+    border-radius: 30px;
+    border-color: black;
+    border-style: dashed;
+    box-shadow:5px 5px 15px rgb(30, 255, 0);
 }
